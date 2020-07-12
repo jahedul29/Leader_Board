@@ -1,0 +1,78 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.container {
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+/* Start navbar section */
+.navbar img {
+    width: 40px;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+/* Start main area */
+.player-image {
+    width: 56px;
+}
+
+.player-name {
+    font-size: 20px;
+}
+
+.heading {
+    color: #562EFF;
+    font-size: 24px;
+}
+
+/* Start blog section */
+.blog-img {
+    width: 40%;
+    display: inline-block;
+}
+
+/* Start courses area */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px gray;
+}
+
+.card-footer {
+    background-color: white;
+    border: none;
+}
+
+.card-footer .review img {
+    width: 13px;
+}
+
+.card-footer .duration img {
+    width: 20px;
+}
+
+.duration {
+    border-radius: 12px;
+    color: #ED6B4F;
+    background-color: #FFE4E8;
+}
+
+.card-text {
+    color: #ED6B4F;
+}
+
+.review span {
+    font-size: 13px;
+    color: gray;
+}
+
+.duration span {
+    font-size: 18px;
+}
